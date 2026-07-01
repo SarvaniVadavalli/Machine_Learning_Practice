@@ -1,6 +1,6 @@
 # 🤖 Machine Learning Practice
 
-Welcome to my **Machine Learning Practice** repository! This repository documents my journey of learning and implementing machine learning algorithms using Python and scikit-learn.
+Welcome to my **Machine Learning Practice** repository! This repository documents my journey of learning and implementing machine learning algorithms using **Python** and **scikit-learn** through hands-on projects and real-world datasets.
 
 ## 🛠️ Tech Stack
 
@@ -14,15 +14,20 @@ Welcome to my **Machine Learning Practice** repository! This repository document
 
 ## 📖 What You'll Find
 
-This repository contains hands-on implementations of various machine learning algorithms, along with data preprocessing, model training, evaluation, and visualization using real-world datasets.
+This repository contains practical implementations of machine learning algorithms, covering the complete workflow from data preprocessing to model evaluation.
 
-Each implementation focuses on understanding:
+Each implementation focuses on:
+
 - Data preprocessing
 - Feature selection
+- Data visualization
 - Model training
 - Model evaluation
-- Data visualization
+- Performance analysis
 
 ## 🚀 Current Progress
 
-- ✅ Day 1: Linear Regression (Titanic Dataset)
+| Day | Algorithm | Dataset | Status |
+|-----|-----------|---------|--------|
+| 1 | Linear Regression | Titanic Dataset | ✅ |
+| 2 | Logistic Regression | Titanic Dataset | ✅ |
