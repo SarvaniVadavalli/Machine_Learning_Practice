@@ -40,3 +40,4 @@ Each implementation focuses on:
 | 3 | Multiple Linear Regression | Titanic Dataset | ✅ |
 | 4 | Polynomial Regression | Position Salaries Dataset | ✅ |
 | 5 | Feature Scaling (Standardization & Normalization) | Titanic Dataset | ✅ |
+| 6 | Data Preprocessing Pipeline | Titanic Dataset | ✅ |
